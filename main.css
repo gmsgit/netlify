@@ -323,6 +323,7 @@ nav {
   border-radius: 50%;
   margin: 2rem;
   box-shadow: 0 20px 30px 0 rgba(0, 255, 255, 0.15);
+  background-color: white;
 }
 
 .about-text-box {
