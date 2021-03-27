@@ -387,7 +387,6 @@ hr {
 
 .tier-item {
   height: 40rem;
-  padding: 2rem;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -412,7 +411,9 @@ hr {
 }
 
 .tier-item img {
-  flex: auto;
+  border-radius: 5%;
+  flex-wrap: wrap;
+  flex: 1%;
 }
 
 /* Projects */
